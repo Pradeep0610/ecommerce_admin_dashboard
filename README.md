@@ -1,5 +1,10 @@
 # admin
 
+# Visit the Site
+```
+https://pradeep0610.github.io/ecommerce_admin_dashboard/
+```
+
 ## Project setup
 ```
 npm install
