@@ -1,0 +1,41 @@
+code {
+    font-family: $font-family-sans-serif;
+    background: #eee;
+    padding: 0.1rem .3rem;
+    border-radius: 3px;
+}
+
+ul,
+ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.full-page-bg-color {
+    background-color: #eff2f7;
+}
+
+.count-down {
+    text-align: center;
+}
+
+.single-counter {
+    display: inline-block;
+    position: relative;
+    width: 105px;
+    padding: 18px 10px 10px;
+
+    span {
+        display: block;
+        text-align: center;
+    }
+
+    .timer {
+        font-size: 3rem;
+    }
+}
+
+.chat-card-log {
+    height: 240px;
+}
